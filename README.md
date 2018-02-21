@@ -2,10 +2,10 @@
 
 # To run : 
 
-npm install
+<pre><code> npm install </code></pre>
 
-node server.js
+<pre><code> node server.js </code></pre>
 
-#Open browser 
+# Open browser 
 
 localhost:3000
