@@ -1,9 +1,11 @@
 # miniMultiRoomChatServer
 
-To run : 
+# To run : 
 
-# npm install 
+npm install
 
-Open browser 
+node server.js
 
-# localhost:3000
+#Open browser 
+
+localhost:3000
